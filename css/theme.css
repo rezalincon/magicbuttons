@@ -1524,7 +1524,7 @@ footer {
   #footer-bottom .logo {
     margin-bottom: 10px; }
   #footer-bottom .btm-footer-text p {
-    font-size: 13px;
+    font-size: 15px;
     color: #aaaaaa;
     margin: 0;
     line-height: 14px; }
@@ -5531,6 +5531,9 @@ button.learn-more .button-text {
  }
 }
 
+.copy-under:hover{
+  border-bottom: 1px solid #fff !important;
+}
 
 @media (max-width: 525.98px) { 
   #footer-bottom .btm-footer-text p{font-size: 9px;}
